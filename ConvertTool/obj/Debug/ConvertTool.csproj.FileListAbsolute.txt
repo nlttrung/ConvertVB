@@ -8,3 +8,13 @@ E:\ConvertTool\ConvertTool\obj\Debug\ConvertTool.csproj.CoreCompileInputs.cache
 E:\ConvertTool\ConvertTool\obj\Debug\ConvertTool.exe
 E:\ConvertTool\ConvertTool\obj\Debug\ConvertTool.pdb
 E:\ConvertTool\ConvertTool\obj\Debug\ConvertTool.MainForm.resources
+E:\ConvertVB\ConvertTool\bin\Debug\ConvertTool.exe.config
+E:\ConvertVB\ConvertTool\bin\Debug\ConvertTool.exe
+E:\ConvertVB\ConvertTool\bin\Debug\ConvertTool.pdb
+E:\ConvertVB\ConvertTool\obj\Debug\ConvertTool.csprojAssemblyReference.cache
+E:\ConvertVB\ConvertTool\obj\Debug\ConvertTool.MainForm.resources
+E:\ConvertVB\ConvertTool\obj\Debug\ConvertTool.Properties.Resources.resources
+E:\ConvertVB\ConvertTool\obj\Debug\ConvertTool.csproj.GenerateResource.cache
+E:\ConvertVB\ConvertTool\obj\Debug\ConvertTool.csproj.CoreCompileInputs.cache
+E:\ConvertVB\ConvertTool\obj\Debug\ConvertTool.exe
+E:\ConvertVB\ConvertTool\obj\Debug\ConvertTool.pdb
